@@ -10,7 +10,7 @@ namespace Class2
     {
         static void Main(string[] args)
         {
-            string message = "Hello CITI!!";
+            string message = "Welcome CITI";
 
             Console.WriteLine(message);
         }
